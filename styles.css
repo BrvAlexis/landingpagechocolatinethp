@@ -1,0 +1,11 @@
+ /* Ajoutez ces styles CSS pour ajuster la taille du contenu dans le pied de page */
+ footer {
+    font-size: 14px; /* Taille de police générale */
+}
+
+/* Ajustez les styles en fonction de vos besoins pour chaque élément spécifique */
+.footer-content {
+    padding: 30px; /* Ajoutez de la marge interne pour augmenter l'espace autour du contenu */
+}
+
+/* Ajoutez d'autres styles CSS au besoin */
